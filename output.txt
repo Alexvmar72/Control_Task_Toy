@@ -1,10 +1,10 @@
-4: Tank
-6: Airfly
-1: Car
-11: Pay
-9: Constructor
-5: Transformer
-8: Sky
-2: Doll
-10: Game
-3: Ball
+9: Constructor 74
+8: Sky 62
+3: Ball 60
+4: Tank 60
+5: Transformer 50
+6: Airfly 40
+7: Mouse 37
+11: Pay 36
+2: Doll 30
+1: Car 20

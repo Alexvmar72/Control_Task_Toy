@@ -1,0 +1,10 @@
+9: Constructor74
+8: Sky62
+3: Ball60
+4: Tank60
+5: Transformer50
+6: Airfly40
+7: Mouse37
+11: Pay36
+2: Doll30
+1: Car20
